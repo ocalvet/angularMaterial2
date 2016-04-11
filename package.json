@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ovidio R. Calvet",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@angular2-material/checkbox": "^2.0.0-alpha.3",
+    "@angular2-material/core": "^2.0.0-alpha.3"
+  }
 }
